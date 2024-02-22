@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - nesw
+  - nes
+  - new
+  - nsw
+  - esw
+  - ne
+  - ns
+  - nw
+  - es
+  - ew
+  - sw
+  - Box
+  - room
+  - n
+  - star
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - nesw
+  - ew
+  - nes
+  - ne
+  - nw
+  - new
+  - es
+  - sw
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
